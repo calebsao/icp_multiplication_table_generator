@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "time_table_backend": {
+      "main": "src/time_table_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
